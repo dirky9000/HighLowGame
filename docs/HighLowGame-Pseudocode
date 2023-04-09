@@ -1,0 +1,9 @@
+Start
+  * Person is greeted to the game with $20 and then asked to choose a number between 0 and 50
+  * If the number is too high, program says its too high
+  * If the number is too low, program says its too low
+  * If user does not guess correctly in 5 turns, they lose $1 and asked if they want to play again
+  * If number is guessed correctly, user is awarded $3
+  * If user does not want to play anymore, program displays amount won or loss
+End
+  
